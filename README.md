@@ -13,3 +13,9 @@ Disclaimer
 ----------
 
 The work on this repository is not related to Rabobank.
+
+Environment
+-----------
+
+- Java 17
+- Maven 3.9.2
