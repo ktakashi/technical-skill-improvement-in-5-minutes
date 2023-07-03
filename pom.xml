@@ -24,6 +24,7 @@
         <module>simple-aggregator</module>
         <module>simple-calculator</module>
         <module>socket</module>
+        <module>concurrency/deadlock</module>
     </modules>
 
     <dependencyManagement>
