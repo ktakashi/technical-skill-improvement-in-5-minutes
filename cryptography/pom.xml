@@ -16,5 +16,6 @@
     <modules>
         <module>textbook-rsa</module>
         <module>who-am-i</module>
+        <module>reusing-iv-on-ctr-mode</module>
     </modules>
 </project>
