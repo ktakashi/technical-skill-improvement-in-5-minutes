@@ -16,6 +16,7 @@
     <modules>
         <module>say-hellos</module>
         <module>actor</module>
+        <module>racecondition</module>
     </modules>
 
 </project>
