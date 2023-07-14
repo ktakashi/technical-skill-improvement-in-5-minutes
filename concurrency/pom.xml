@@ -17,6 +17,7 @@
         <module>say-hellos</module>
         <module>actor</module>
         <module>racecondition</module>
+        <module>threadlocalvariable</module>
     </modules>
 
 </project>
