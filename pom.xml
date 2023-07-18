@@ -25,6 +25,7 @@
         <module>simple-calculator</module>
         <module>socket</module>
         <module>concurrency/deadlock</module>
+        <module>reactive-streams</module>
     </modules>
 
     <dependencyManagement>

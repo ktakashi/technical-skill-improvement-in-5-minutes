@@ -7,6 +7,7 @@
         <groupId>io.ktakashi.tsii5m.concurrency</groupId>
         <artifactId>concurrency</artifactId>
         <version>1.0.0</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>racecondition</artifactId>
