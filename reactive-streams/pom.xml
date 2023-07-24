@@ -13,6 +13,9 @@
     <groupId>io.ktakashi.tsii5m.reactive-streams</groupId>
     <artifactId>reactive-streams</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>parallel-execution</module>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
